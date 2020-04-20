@@ -12,8 +12,12 @@ Easy to use Crypto wrapper using CryptoSwift, SwiftyRSA.
 ## Dependencies
 Add these pods in your podfile to use this wrapper
 
-- pod 'CryptoSwift'
-- pod 'SwiftyRSA'
+```
+  pod 'CryptoSwift', '1.0.0'
+  pod 'SwiftyRSA', '1.5.0'
+```
+
+[CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift), [SwiftyRSA](https://github.com/TakeScoop/SwiftyRSA)
 
 ## Usage
 
